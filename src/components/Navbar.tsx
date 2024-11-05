@@ -21,7 +21,7 @@ const Navbar = () => {
                 {/*LEFT*/}
                 <div className="w-1/3">
                     <Link href="/" className="flex item-center gap-3">
-                        <Image src="/logo.png" alt="logo" width={24} height={24} />
+                        <Image src="/logo.png" alt="logo" width={50} height={50} />
                         <div className="text-2xl tracking-wide">Cultured Paradise</div>
                     </Link>
                 </div>
